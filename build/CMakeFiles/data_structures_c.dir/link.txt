@@ -1,0 +1,1 @@
+/opt/homebrew/bin/aarch64-apple-darwin24-gcc-14 -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/data_structures_c.dir/src/Main.c.o CMakeFiles/data_structures_c.dir/src/Scheduler.c.o CMakeFiles/data_structures_c.dir/src/Task.c.o -o data_structures_c
