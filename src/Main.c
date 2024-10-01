@@ -52,10 +52,10 @@ int main(void) {
 
   Task_free(&p_task1);
 
-  Task_print(p_task1);
+  //Task_print(p_task1);
 
   Task_free(&p_task2);
 
-  Task_print(p_task2);
+  //Task_print(p_task2);
   return 0;
 }

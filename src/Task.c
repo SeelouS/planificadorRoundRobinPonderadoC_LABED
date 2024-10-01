@@ -35,20 +35,15 @@ void Task_free(struct Task** p_p_task) {
 }
 
 struct Task* Task_copyOf(const struct Task* p_task) {
-  struct Task *copiedTaskPointer = malloc(sizeof(struct Task));
-  if(copiedTaskPointer != NULL) {
-    copiedTaskPointer -> id = p_task -> id;
-    copiedTaskPointer -> quantum = p_task -> quantum;
-    strcpy(copiedTaskPointer -> name, p_task -> name);
+  if(p_task != NULL) {
+    return Task_new(p_task -> id, p_task -> name, p_task -> quantum);
   }
-  return copiedTaskPointer;
+  return NULL;
   ;
 }
 
 void Task_print(const struct Task* p_task) {
-  if(p_task == NULL) {
-    printf("NULL Task Pointer\n");
-  } else {
+  if(p_task != NULL){
     printf("ID: %d\nTASK NAME: %s\nQUANTUM: %d\n", p_task -> id, p_task -> name, p_task -> quantum);
   }
 }
