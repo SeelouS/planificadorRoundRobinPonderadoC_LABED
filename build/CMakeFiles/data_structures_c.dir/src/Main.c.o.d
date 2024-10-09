@@ -1,7 +1,7 @@
 CMakeFiles/data_structures_c.dir/src/Main.c.o: \
- /Users/sergioescalantepresa/Documents/UMA/IngenieriaSoftware/Año\ 2/Cuatri\ 1/Estructura\ de\ datos/CDevelopment/practicasLaboratorio/practica1Tema1ADA/src/Main.c \
- /Users/sergioescalantepresa/Documents/UMA/IngenieriaSoftware/Año\ 2/Cuatri\ 1/Estructura\ de\ datos/CDevelopment/practicasLaboratorio/practica1Tema1ADA/src/Scheduler.h \
- /Users/sergioescalantepresa/Documents/UMA/IngenieriaSoftware/Año\ 2/Cuatri\ 1/Estructura\ de\ datos/CDevelopment/practicasLaboratorio/practica1Tema1ADA/src/Task.h \
+ /Users/sergioescalantepresa/Documents/UMA/IngenieriaSoftware/Año\ 2/Cuatri\ 1/Estructura\ de\ datos/CDevelopment/practicasLaboratorio/practica1Tema1ED/src/Main.c \
+ /Users/sergioescalantepresa/Documents/UMA/IngenieriaSoftware/Año\ 2/Cuatri\ 1/Estructura\ de\ datos/CDevelopment/practicasLaboratorio/practica1Tema1ED/src/Scheduler.h \
+ /Users/sergioescalantepresa/Documents/UMA/IngenieriaSoftware/Año\ 2/Cuatri\ 1/Estructura\ de\ datos/CDevelopment/practicasLaboratorio/practica1Tema1ED/src/Task.h \
  /opt/homebrew/Cellar/gcc/14.2.0/lib/gcc/current/gcc/aarch64-apple-darwin24/14/include/stddef.h \
  /opt/homebrew/Cellar/gcc/14.2.0/lib/gcc/current/gcc/aarch64-apple-darwin24/14/include-fixed/stdio.h \
  /opt/homebrew/Cellar/gcc/14.2.0/lib/gcc/current/gcc/aarch64-apple-darwin24/14/include/stdarg.h \

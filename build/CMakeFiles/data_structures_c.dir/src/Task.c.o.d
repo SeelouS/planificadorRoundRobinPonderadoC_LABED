@@ -1,12 +1,11 @@
 CMakeFiles/data_structures_c.dir/src/Task.c.o: \
- /Users/sergioescalantepresa/Documents/UMA/IngenieriaSoftware/Año\ 2/Cuatri\ 1/Estructura\ de\ datos/CDevelopment/practicasLaboratorio/practica1Tema1ADA/src/Task.c \
- /Users/sergioescalantepresa/Documents/UMA/IngenieriaSoftware/Año\ 2/Cuatri\ 1/Estructura\ de\ datos/CDevelopment/practicasLaboratorio/practica1Tema1ADA/src/Task.h \
+ /Users/sergioescalantepresa/Documents/UMA/IngenieriaSoftware/Año\ 2/Cuatri\ 1/Estructura\ de\ datos/CDevelopment/practicasLaboratorio/practica1Tema1ED/src/Task.c \
+ /Users/sergioescalantepresa/Documents/UMA/IngenieriaSoftware/Año\ 2/Cuatri\ 1/Estructura\ de\ datos/CDevelopment/practicasLaboratorio/practica1Tema1ED/src/Task.h \
  /opt/homebrew/Cellar/gcc/14.2.0/lib/gcc/current/gcc/aarch64-apple-darwin24/14/include/stddef.h \
  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/assert.h \
  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/sys/cdefs.h \
  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/sys/_symbol_aliasing.h \
  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/sys/_posix_availability.h \
- /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/_assert.h \
  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/_static_assert.h \
  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/stdlib.h \
  /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk/usr/include/_stdlib.h \

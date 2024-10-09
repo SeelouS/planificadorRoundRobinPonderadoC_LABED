@@ -1,20 +1,20 @@
 [
 {
-  "directory": "/Users/sergioescalantepresa/Documents/UMA/IngenieriaSoftware/Año 2/Cuatri 1/Estructura de datos/CDevelopment/practicasLaboratorio/practica1Tema1ADA/build",
-  "command": "/opt/homebrew/bin/aarch64-apple-darwin24-gcc-14  -I\"/Users/sergioescalantepresa/Documents/UMA/IngenieriaSoftware/Año 2/Cuatri 1/Estructura de datos/CDevelopment/practicasLaboratorio/practica1Tema1ADA/src\" -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -Wall -Wextra -Wpedantic -o CMakeFiles/data_structures_c.dir/src/Main.c.o -c \"/Users/sergioescalantepresa/Documents/UMA/IngenieriaSoftware/Año 2/Cuatri 1/Estructura de datos/CDevelopment/practicasLaboratorio/practica1Tema1ADA/src/Main.c\"",
-  "file": "/Users/sergioescalantepresa/Documents/UMA/IngenieriaSoftware/Año 2/Cuatri 1/Estructura de datos/CDevelopment/practicasLaboratorio/practica1Tema1ADA/src/Main.c",
+  "directory": "/Users/sergioescalantepresa/Documents/UMA/IngenieriaSoftware/Año 2/Cuatri 1/Estructura de datos/CDevelopment/practicasLaboratorio/practica1Tema1ED/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin24-gcc-14  -I\"/Users/sergioescalantepresa/Documents/UMA/IngenieriaSoftware/Año 2/Cuatri 1/Estructura de datos/CDevelopment/practicasLaboratorio/practica1Tema1ED/src\" -O3 -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -Wall -Wextra -Wpedantic -o CMakeFiles/data_structures_c.dir/src/Main.c.o -c \"/Users/sergioescalantepresa/Documents/UMA/IngenieriaSoftware/Año 2/Cuatri 1/Estructura de datos/CDevelopment/practicasLaboratorio/practica1Tema1ED/src/Main.c\"",
+  "file": "/Users/sergioescalantepresa/Documents/UMA/IngenieriaSoftware/Año 2/Cuatri 1/Estructura de datos/CDevelopment/practicasLaboratorio/practica1Tema1ED/src/Main.c",
   "output": "CMakeFiles/data_structures_c.dir/src/Main.c.o"
 },
 {
-  "directory": "/Users/sergioescalantepresa/Documents/UMA/IngenieriaSoftware/Año 2/Cuatri 1/Estructura de datos/CDevelopment/practicasLaboratorio/practica1Tema1ADA/build",
-  "command": "/opt/homebrew/bin/aarch64-apple-darwin24-gcc-14  -I\"/Users/sergioescalantepresa/Documents/UMA/IngenieriaSoftware/Año 2/Cuatri 1/Estructura de datos/CDevelopment/practicasLaboratorio/practica1Tema1ADA/src\" -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -Wall -Wextra -Wpedantic -o CMakeFiles/data_structures_c.dir/src/Scheduler.c.o -c \"/Users/sergioescalantepresa/Documents/UMA/IngenieriaSoftware/Año 2/Cuatri 1/Estructura de datos/CDevelopment/practicasLaboratorio/practica1Tema1ADA/src/Scheduler.c\"",
-  "file": "/Users/sergioescalantepresa/Documents/UMA/IngenieriaSoftware/Año 2/Cuatri 1/Estructura de datos/CDevelopment/practicasLaboratorio/practica1Tema1ADA/src/Scheduler.c",
+  "directory": "/Users/sergioescalantepresa/Documents/UMA/IngenieriaSoftware/Año 2/Cuatri 1/Estructura de datos/CDevelopment/practicasLaboratorio/practica1Tema1ED/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin24-gcc-14  -I\"/Users/sergioescalantepresa/Documents/UMA/IngenieriaSoftware/Año 2/Cuatri 1/Estructura de datos/CDevelopment/practicasLaboratorio/practica1Tema1ED/src\" -O3 -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -Wall -Wextra -Wpedantic -o CMakeFiles/data_structures_c.dir/src/Scheduler.c.o -c \"/Users/sergioescalantepresa/Documents/UMA/IngenieriaSoftware/Año 2/Cuatri 1/Estructura de datos/CDevelopment/practicasLaboratorio/practica1Tema1ED/src/Scheduler.c\"",
+  "file": "/Users/sergioescalantepresa/Documents/UMA/IngenieriaSoftware/Año 2/Cuatri 1/Estructura de datos/CDevelopment/practicasLaboratorio/practica1Tema1ED/src/Scheduler.c",
   "output": "CMakeFiles/data_structures_c.dir/src/Scheduler.c.o"
 },
 {
-  "directory": "/Users/sergioescalantepresa/Documents/UMA/IngenieriaSoftware/Año 2/Cuatri 1/Estructura de datos/CDevelopment/practicasLaboratorio/practica1Tema1ADA/build",
-  "command": "/opt/homebrew/bin/aarch64-apple-darwin24-gcc-14  -I\"/Users/sergioescalantepresa/Documents/UMA/IngenieriaSoftware/Año 2/Cuatri 1/Estructura de datos/CDevelopment/practicasLaboratorio/practica1Tema1ADA/src\" -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -Wall -Wextra -Wpedantic -o CMakeFiles/data_structures_c.dir/src/Task.c.o -c \"/Users/sergioescalantepresa/Documents/UMA/IngenieriaSoftware/Año 2/Cuatri 1/Estructura de datos/CDevelopment/practicasLaboratorio/practica1Tema1ADA/src/Task.c\"",
-  "file": "/Users/sergioescalantepresa/Documents/UMA/IngenieriaSoftware/Año 2/Cuatri 1/Estructura de datos/CDevelopment/practicasLaboratorio/practica1Tema1ADA/src/Task.c",
+  "directory": "/Users/sergioescalantepresa/Documents/UMA/IngenieriaSoftware/Año 2/Cuatri 1/Estructura de datos/CDevelopment/practicasLaboratorio/practica1Tema1ED/build",
+  "command": "/opt/homebrew/bin/aarch64-apple-darwin24-gcc-14  -I\"/Users/sergioescalantepresa/Documents/UMA/IngenieriaSoftware/Año 2/Cuatri 1/Estructura de datos/CDevelopment/practicasLaboratorio/practica1Tema1ED/src\" -O3 -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -Wall -Wextra -Wpedantic -o CMakeFiles/data_structures_c.dir/src/Task.c.o -c \"/Users/sergioescalantepresa/Documents/UMA/IngenieriaSoftware/Año 2/Cuatri 1/Estructura de datos/CDevelopment/practicasLaboratorio/practica1Tema1ED/src/Task.c\"",
+  "file": "/Users/sergioescalantepresa/Documents/UMA/IngenieriaSoftware/Año 2/Cuatri 1/Estructura de datos/CDevelopment/practicasLaboratorio/practica1Tema1ED/src/Task.c",
   "output": "CMakeFiles/data_structures_c.dir/src/Task.c.o"
 }
 ]

@@ -22,7 +22,7 @@ set(CMAKE_MAKEFILE_DEPENDS
   "/Applications/CMake.app/Contents/share/cmake-3.30/Modules/Platform/Darwin-Initialize.cmake"
   "/Applications/CMake.app/Contents/share/cmake-3.30/Modules/Platform/Darwin.cmake"
   "/Applications/CMake.app/Contents/share/cmake-3.30/Modules/Platform/UnixPaths.cmake"
-  "/Users/sergioescalantepresa/Documents/UMA/IngenieriaSoftware/Año 2/Cuatri 1/Estructura de datos/CDevelopment/practicasLaboratorio/practica1Tema1ADA/CMakeLists.txt"
+  "/Users/sergioescalantepresa/Documents/UMA/IngenieriaSoftware/Año 2/Cuatri 1/Estructura de datos/CDevelopment/practicasLaboratorio/practica1Tema1ED/CMakeLists.txt"
   "CMakeFiles/3.30.3/CMakeCCompiler.cmake"
   "CMakeFiles/3.30.3/CMakeSystem.cmake"
   )

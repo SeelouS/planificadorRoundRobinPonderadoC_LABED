@@ -8,9 +8,9 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/Users/sergioescalantepresa/Documents/UMA/IngenieriaSoftware/Año 2/Cuatri 1/Estructura de datos/CDevelopment/practicasLaboratorio/practica1Tema1ADA/src/Main.c" "CMakeFiles/data_structures_c.dir/src/Main.c.o" "gcc" "CMakeFiles/data_structures_c.dir/src/Main.c.o.d"
-  "/Users/sergioescalantepresa/Documents/UMA/IngenieriaSoftware/Año 2/Cuatri 1/Estructura de datos/CDevelopment/practicasLaboratorio/practica1Tema1ADA/src/Scheduler.c" "CMakeFiles/data_structures_c.dir/src/Scheduler.c.o" "gcc" "CMakeFiles/data_structures_c.dir/src/Scheduler.c.o.d"
-  "/Users/sergioescalantepresa/Documents/UMA/IngenieriaSoftware/Año 2/Cuatri 1/Estructura de datos/CDevelopment/practicasLaboratorio/practica1Tema1ADA/src/Task.c" "CMakeFiles/data_structures_c.dir/src/Task.c.o" "gcc" "CMakeFiles/data_structures_c.dir/src/Task.c.o.d"
+  "/Users/sergioescalantepresa/Documents/UMA/IngenieriaSoftware/Año 2/Cuatri 1/Estructura de datos/CDevelopment/practicasLaboratorio/practica1Tema1ED/src/Main.c" "CMakeFiles/data_structures_c.dir/src/Main.c.o" "gcc" "CMakeFiles/data_structures_c.dir/src/Main.c.o.d"
+  "/Users/sergioescalantepresa/Documents/UMA/IngenieriaSoftware/Año 2/Cuatri 1/Estructura de datos/CDevelopment/practicasLaboratorio/practica1Tema1ED/src/Scheduler.c" "CMakeFiles/data_structures_c.dir/src/Scheduler.c.o" "gcc" "CMakeFiles/data_structures_c.dir/src/Scheduler.c.o.d"
+  "/Users/sergioescalantepresa/Documents/UMA/IngenieriaSoftware/Año 2/Cuatri 1/Estructura de datos/CDevelopment/practicasLaboratorio/practica1Tema1ED/src/Task.c" "CMakeFiles/data_structures_c.dir/src/Task.c.o" "gcc" "CMakeFiles/data_structures_c.dir/src/Task.c.o.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

@@ -30,7 +30,6 @@ void Task_free(struct Task** p_p_task) {
   if(p_p_task != NULL && *p_p_task != NULL) {
     free(*p_p_task);
     *p_p_task = NULL;
-
   }
 }
 

@@ -4,9 +4,9 @@
 # compile C with /opt/homebrew/bin/aarch64-apple-darwin24-gcc-14
 C_DEFINES = 
 
-C_INCLUDES = -I"/Users/sergioescalantepresa/Documents/UMA/IngenieriaSoftware/Año 2/Cuatri 1/Estructura de datos/CDevelopment/practicasLaboratorio/practica1Tema1ADA/src"
+C_INCLUDES = -I"/Users/sergioescalantepresa/Documents/UMA/IngenieriaSoftware/Año 2/Cuatri 1/Estructura de datos/CDevelopment/practicasLaboratorio/practica1Tema1ED/src"
 
-C_FLAGSarm64 = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -Wall -Wextra -Wpedantic
+C_FLAGSarm64 = -O3 -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -Wall -Wextra -Wpedantic
 
-C_FLAGS = -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -Wall -Wextra -Wpedantic
+C_FLAGS = -O3 -DNDEBUG -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.0.sdk -Wall -Wextra -Wpedantic
 
